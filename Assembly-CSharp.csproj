@@ -36,15 +36,16 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\DogPack\Examples\Scripts\ButtonResponder.cs" />
+     <Compile Include="Assets\DogPack\Examples\Scripts\ChangeBlendShape.cs" />
      <Compile Include="Assets\Scripts\LaserPointer.cs" />
      <Compile Include="Assets\Scripts\ControllerGrabObject.cs" />
+     <Compile Include="Assets\DogPack\Examples\Scripts\MouseOrbitImprovedMod.cs" />
      <Compile Include="Assets\Scripts\SlidingLever.cs" />
      <Compile Include="Assets\DogPack\Examples\Scripts\ChangeButtonText.cs" />
      <Compile Include="Assets\DogPack\Examples\Scripts\ChangeShader.cs" />
-     <Compile Include="Assets\DogPack\Examples\Scripts\MouseOrbitImprovedMod.cs" />
      <Compile Include="Assets\DogPack\Examples\Scripts\Animate.cs" />
-     <Compile Include="Assets\DogPack\Examples\Scripts\ChangeBlendShape.cs" />
-     <Compile Include="Assets\DogPack\Examples\Scripts\ButtonResponder.cs" />
+     <Compile Include="Assets\Scripts\ConveyorBelt.cs" />
      <None Include="Assets\Sci-Fi Styled Modular Pack\Readme.txt" />
      <None Include="Assets\DogPack\Examples\Description.txt" />
     <Reference Include="UnityEngine">
