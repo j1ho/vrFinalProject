@@ -49,6 +49,8 @@
      <Compile Include="Assets\DogPack\Examples\Scripts\ChangeShader.cs" />
      <Compile Include="Assets\DogPack\Examples\Scripts\Animate.cs" />
      <Compile Include="Assets\Scripts\SprayPaint.cs" />
+     <Compile Include="Assets\Scripts\Axle.cs" />
+     <None Include="Assets\Shaders\ToonShader.shader" />
      <None Include="Assets\Sci-Fi Styled Modular Pack\Readme.txt" />
      <None Include="Assets\DogPack\Examples\Description.txt" />
     <Reference Include="UnityEngine">
