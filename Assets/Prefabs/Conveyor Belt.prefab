@@ -61,7 +61,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 1935db0790593ae4bad78490b24e7325, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -105,9 +105,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 149666798762670464}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 793cf2a9bcb7e1147b19ae9eaebc176f, type: 3}
+  m_Script: {fileID: 11500000, guid: 0aba77741ec7f564183e3f96e70d314a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 100
-  direction: {x: 1, y: 0, z: 0}
+  speed: 5
+  direction: {x: 0, y: 1, z: 0}
   onBelt: []
